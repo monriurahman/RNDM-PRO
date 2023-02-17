@@ -148,8 +148,8 @@ logo = ("""
 [+] ON GITHUB    :  U7P4L-IN                                   [+]
 [+] TEAM         :  ANONYMOUS CYBER                            [+]
 [+] TOOL STATUS  :  PAKISTANI ID CLONING                       [+]
-[+] TOOL VIRSION :  0.5                                        [+]
-[+]============================================================[+]"""
+[+] TOOL VIRSION :  0.3                                        [+]
+[+]============================================================[+]
 loop = 0
 oks = []
 cps = []
