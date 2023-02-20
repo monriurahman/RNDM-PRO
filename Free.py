@@ -120,7 +120,7 @@ logo=("""\033[1;37m
 [+] COUNTRY      :  BANGLADESH                         [+]
 [+] ON GITHUB    :  U7P4L-IN                           [+]
 [+] TOOL STATUS  :  RANDOM CLONING                     [+]
-[+] TOOL VERSION :  0.5                                [+]
+[+] TOOL VERSION :  0.0                                [+]
 [+]====================================================[+]""")
 
 def lines():
