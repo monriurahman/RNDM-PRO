@@ -23,10 +23,10 @@ ANONYMOUS U7P4L
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf ID-18
- git clone --depth=1 https://github.com/U7P4L-IN/ID-18.git
+ rm -rf RNDM-PRO
+ git clone --depth=1 https://github.com/U7P4L-IN/RNDM-PRO.git
 
- cd ID-18
+ cd RNDM-PRO
 
  ls
 
@@ -35,4 +35,4 @@ ANONYMOUS U7P4L
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ID-18&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=RNDM-PRO&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
