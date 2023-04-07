@@ -32,7 +32,7 @@ U7P4L IN
 
  ls
 
- python X.py
+ python Free.py
 ```
 #### Screenshots:
 
